@@ -1,4 +1,4 @@
-package mx.edev.design.patterns;
+package mx.edev.design.patterns.creational;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
